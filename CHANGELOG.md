@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/sieuhuflit/test-release-please/compare/v2.0.0...v2.1.0) (2024-01-11)
+
+
+### Features
+
+* update prerelease ([#14](https://github.com/sieuhuflit/test-release-please/issues/14)) ([e31f071](https://github.com/sieuhuflit/test-release-please/commit/e31f0710ea23d226d8a0de74240fac42be750f8c))
+
 ## [2.0.0](https://github.com/sieuhuflit/test-release-please/compare/v1.2.0...v2.0.0) (2024-01-11)
 
 
