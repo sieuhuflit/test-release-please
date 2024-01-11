@@ -21,5 +21,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           # this is a built-in strategy in release-please, see "Action Inputs"
           # for more options
-          release-type: dart
-          prerelease: true
+          manifest-file: .release-please-manifest.json
