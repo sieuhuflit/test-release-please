@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/sieuhuflit/test-release-please/compare/v1.2.0...v2.0.0) (2024-01-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change 5 ([#10](https://github.com/sieuhuflit/test-release-please/issues/10))
+
+### Features
+
+* breaking change 5 ([#10](https://github.com/sieuhuflit/test-release-please/issues/10)) ([496df35](https://github.com/sieuhuflit/test-release-please/commit/496df355986c66ae561d4469b0fdd0727666248a))
+* implement feat4 ([#8](https://github.com/sieuhuflit/test-release-please/issues/8)) ([f66642a](https://github.com/sieuhuflit/test-release-please/commit/f66642aa24184bee3a5ddb4c23e30175b31efda0))
+
 ## [1.2.0](https://github.com/sieuhuflit/test-release-please/compare/v1.1.0...v1.2.0) (2024-01-11)
 
 
