@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/sieuhuflit/test-release-please/compare/v1.0.0...v1.1.0) (2024-01-11)
+
+
+### Features
+
+* feature 2 ([#3](https://github.com/sieuhuflit/test-release-please/issues/3)) ([216c3af](https://github.com/sieuhuflit/test-release-please/commit/216c3afd5065fbc00092b464d456de93dc75a613))
+
 ## 1.0.0 (2024-01-11)
 
 
